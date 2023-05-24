@@ -1,5 +1,7 @@
 Hi! ✨ I'm Rachel
 React Developer 
+__________________
+
 
 🌍 I am currently based in eSwatini. 
 🦾 Currently building a fintess coach app with React. 
